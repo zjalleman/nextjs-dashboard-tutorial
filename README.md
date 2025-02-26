@@ -6,3 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 A place to store the code for my studies of the NextJS App Router Course.
+https://nextjs-dashboard-tutorial-git-main-zjallemans-projects.vercel.app/
